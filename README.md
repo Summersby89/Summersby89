@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Summersby89
 - 👀 I’m interested in JS, React, Node and PHP)
-- 🌱 I’m currently learning Laravel and React hooks)
+- 🌱 I’m currently learning Laravel and React)
 - 💞️ I’m looking to collaborate on Dan Abramoff)
 - 📫 How to reach me - summersby89@yandex.ru
 
